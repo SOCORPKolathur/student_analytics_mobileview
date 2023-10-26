@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "students-d2abf"
+  },
+  "targets": {
+    "students-d2abf": {
+      "hosting": {
+        "student": [
+          "students-d2abf"
+        ],
+        "studentmobileview": [
+          "studentjskfi"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
