@@ -1,4 +1,4 @@
-package com.example.student_analytics_mobileview
+package info.socorp.jskfi
 
 import io.flutter.embedding.android.FlutterActivity
 
